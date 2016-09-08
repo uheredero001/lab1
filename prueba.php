@@ -1,1 +1,1 @@
-<?php phpinfor();?>
+<?php phpinfo();?>
